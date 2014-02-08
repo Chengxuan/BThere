@@ -1,0 +1,13 @@
+﻿<xapCache source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Debug\ARSampleApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013-01-25 10:31:25">
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2013-01-24 22:55:00" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Background.png" archivePath="Background.png" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\obj\Debug\ARSampleApp.dll" archivePath="ARSampleApp.dll" lastWriteTime="2013-01-25 10:31:24" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.dll" archivePath="SharpGIS.AR.dll" lastWriteTime="2013-01-24 22:55:00" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\res\CountryList.xml" archivePath="res\CountryList.xml" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013-01-24 22:55:00" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Debug\res\CountryList.xml" archivePath="res\CountryList.xml" lastWriteTime="2013-01-24 22:54:28" />
+</xapCache>

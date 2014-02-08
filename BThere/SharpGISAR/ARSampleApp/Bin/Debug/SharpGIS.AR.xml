@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SharpGIS.AR</name>
+    </assembly>
+    <members>
+        <member name="T:SharpGIS.AR.Controls.ARPanel">
+            <summary>
+            Augmented Reality Panel Control
+            </summary>
+        </member>
+        <member name="F:SharpGIS.AR.Controls.ARPanel._frame">
+            <summary>The frame this control is hosted in - used to detect page orientation changes.</summary>
+        </member>
+        <member name="F:SharpGIS.AR.Controls.ARPanel.motion">
+            <summary>The motion sensor used.</summary>
+        </member>
+        <member name="F:SharpGIS.AR.Controls.ARPanel.world">
+            <summary>Topocentric coordinate system (x=north, z=up, y=west, center=device).</summary>
+        </member>
+        <member name="F:SharpGIS.AR.Controls.ARPanel.view">
+            <summary>The view matrix places the camera at 0,0,0, pointing in the
+            specified direction. This view changes with the page orientation 
+            to compensate for screen coordinate system changing relative to 
+            motion sensor coordinate system.</summary>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:SharpGIS.AR.Controls.ARPanel">Augmented Reality Panel</see> control.
+            </summary>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.ScreenToDirection(System.Windows.Point)">
+            <summary>
+            Converts a screen point to a direction.
+            </summary>
+            <param name="screen">The screen coordinate relative to upper left of the <see cref="T:SharpGIS.AR.Controls.ARPanel"/>.</param>
+            <returns></returns>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.PolarToVector(System.Double,System.Double,System.Double)">
+            <summary>
+            Converts polar coordinates into a direction/vector
+            </summary>
+            <param name="px"></param>
+            <param name="py"></param>
+            <param name="radius"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.Start">
+            <summary>
+            Starts reading data from the motion sensor.
+            This method throws an exception if <see cref="P:Microsoft.Devices.Sensors.Motion.IsSupported"/>
+            is false.
+            </summary>
+            <exception cref="T:System.InvalidOperationException">Thrown if motion sensor is not supported</exception>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.Stop">
+            <summary>
+            Stops reading data from the motion sensor.
+            </summary>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.ArrangeOverride(System.Windows.Size)">
+            <summary>
+            Provides the behavior for the Arrange pass of Silverlight layout.
+            </summary>
+            <param name="finalSize">The final area within the parent that this
+            object should use to arrange itself and its children.</param>
+            <returns>
+            The actual size that is used after the element is arranged in layout.
+            </returns>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.MeasureOverride(System.Windows.Size)">
+            <summary>
+            Provides the behavior for the Measure pass of Silverlight layout. 
+            </summary>
+            <param name="availableSize">The available size that this object can
+            give to child objects. Infinity (<see cref="F:System.Double.PositiveInfinity"/>) 
+            can be specified as a value to indicate that the object will size to 
+            whatever content is available.</param>
+            <returns>
+            The size that this object determines it needs during layout, based
+            on its calculations of the allocated sizes for child objects; or 
+            based on other considerations, such as a fixed container size.
+            </returns>
+        </member>
+        <member name="F:SharpGIS.AR.Controls.ARPanel.FieldOfViewProperty">
+            <summary>
+            Identifies the <see cref="P:SharpGIS.AR.Controls.ARPanel.FieldOfView"/> dependency property.
+            </summary>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.GetDirection(System.Windows.DependencyObject)">
+            <summary>
+            Gets the value of the Direction property from the specified System.Windows.FrameworkElement.
+            </summary>
+            <param name="obj">The element from which to read the property value.</param>
+            <returns>The value of the Direction property.</returns>
+        </member>
+        <member name="M:SharpGIS.AR.Controls.ARPanel.SetDirection(System.Windows.DependencyObject,System.Windows.Point)">
+            <summary>
+            Sets the value of the Direction property
+             to the specified System.Windows.FrameworkElement.
+            </summary>
+            <param name="obj">The element on which to set the Direction property.</param>
+            <param name="value">The property value to set.</param>
+        </member>
+        <member name="F:SharpGIS.AR.Controls.ARPanel.DirectionProperty">
+            <summary>
+            Identifies the Direction dependency property.
+            </summary>
+        </member>
+        <member name="P:SharpGIS.AR.Controls.ARPanel.CameraProjection">
+            <summary>
+            Projection matrix defines perspective distortion and near/far plane.
+            </summary>
+        </member>
+        <member name="P:SharpGIS.AR.Controls.ARPanel.FieldOfView">
+            <summary>
+            Gets or sets the field of view of the viewport (if you have the camera as a background,
+            this should match the FOV of the lens).
+            </summary>
+            <value>The field of view.</value>
+        </member>
+        <member name="P:SharpGIS.AR.Controls.ARPanel.IsRunning">
+            <summary>
+            Gets value indicating whether the motion sensor is active.
+            </summary>
+            <value>
+            	<c>true</c> if this sensor is active; otherwise, <c>false</c>.
+            </value>
+        </member>
+    </members>
+</doc>

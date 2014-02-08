@@ -1,0 +1,80 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BThere.Game"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+     xmlns:ar="clr-namespace:SharpGIS.AR.Controls;assembly=SharpGIS.AR"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="LandscapeLeft"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="{StaticResource PhoneBackgroundBrush}">
+
+        <Rectangle x:Name="videoRectangle" Margin="0,0,0,0">
+            <Rectangle.Fill>
+                <VideoBrush x:Name="viewfinderBrush" AlignmentX="Left" AlignmentY="Top" Stretch="Fill">
+                    <VideoBrush.RelativeTransform>
+                        <CompositeTransform x:Name="videoBrushTransform" CenterX="0.5" CenterY="0.5" />
+                    </VideoBrush.RelativeTransform>
+                </VideoBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+
+
+        <ar:ARPanel x:Name="arPanel"
+		 Loaded="ARPanel_Loaded" Unloaded="ARPanel_Unloaded">
+
+            <!--North horizontal pointer-->
+            <Grid ar:ARPanel.Direction="0,0">
+                <Ellipse Fill="{StaticResource PhoneAccentBrush}" />
+                
+            </Grid>
+
+            <!--South horizontal pointer-->
+            <Grid ar:ARPanel.Direction="0,180" >
+                <Ellipse Fill="{StaticResource PhoneAccentBrush}" />
+                
+            </Grid>
+
+            <!--West horizontal pointer-->
+            <Grid ar:ARPanel.Direction="0,270" >
+                <Ellipse Fill="{StaticResource PhoneAccentBrush}" />
+                
+            </Grid>
+
+            <!--East horizontal pointer-->
+            <Grid ar:ARPanel.Direction="0,90">
+                <Ellipse Fill="{StaticResource PhoneAccentBrush}" />
+               
+            </Grid>
+
+            <!--Up pointer-->
+            <Grid ar:ARPanel.Direction="90,0">
+                <Ellipse Fill="{StaticResource PhoneAccentBrush}" />
+                
+            </Grid>
+
+            <!--Down pointer-->
+            <Grid ar:ARPanel.Direction="-90,0">
+                <Ellipse Fill="{StaticResource PhoneAccentBrush}" />
+                
+            </Grid>
+           
+
+        </ar:ARPanel>
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="Black" Opacity="0.8">
+            <TextBlock  Foreground="White" FontSize="30" Name="questionTXT" HorizontalAlignment="Left" Height="47" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="460" Margin="10,10,0,0"></TextBlock>
+        </Grid>
+        <TextBlock Foreground="White" FontSize="30" Name="txtRightCount" HorizontalAlignment="Left" Height="47" TextWrapping="Wrap" Text="Score: 0/85" VerticalAlignment="Top" Width="177" Margin="613,423,0,0" ></TextBlock>
+        <Button Visibility="Collapsed" Name="btnReplay" Content="Replay" HorizontalAlignment="Left" Height="72" VerticalAlignment="Top" Width="189" Margin="281,398,0,0" Click="btnReplay_Click"/>
+        <TextBlock  Name="txtResult" Visibility="Collapsed" TextAlignment="Center" FontSize="100" HorizontalAlignment="Left" Height="143" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="496" Margin="146,170,0,0"/>
+    </Grid>
+
+</phone:PhoneApplicationPage>

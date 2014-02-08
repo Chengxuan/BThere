@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BThere", "BThere\BThere.csproj", "{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpGIS.AR", "SharpGISAR\SharpGIS.AR\SharpGIS.AR.csproj", "{11C1DDD1-B323-4526-8EEC-1EF8066A7E9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F14D86-8C52-42D2-9D1F-DC33D68E1CE4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{11C1DDD1-B323-4526-8EEC-1EF8066A7E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C1DDD1-B323-4526-8EEC-1EF8066A7E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C1DDD1-B323-4526-8EEC-1EF8066A7E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C1DDD1-B323-4526-8EEC-1EF8066A7E9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

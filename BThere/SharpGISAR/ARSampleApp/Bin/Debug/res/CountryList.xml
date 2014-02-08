@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CountryTable>
+	<CountryDetails>
+		<Country>Afghanistan</Country>
+		<Capital>Kabul</Capital>
+		<Latitude>34.52</Latitude>
+		<Longitude>69.18</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Albania </Country>
+		<Capital>Tirane</Capital>
+		<Latitude>41.33</Latitude>
+		<Longitude>19.82</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Algeria </Country>
+		<Capital>Algiers</Capital>
+		<Latitude>36.76</Latitude>
+		<Longitude>3.05</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>American Samoa</Country>
+		<Capital>Pago Pago</Capital>
+		<Latitude>-14.28</Latitude>
+		<Longitude>-170.7</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Andorra </Country>
+		<Capital>Andorra la Vella</Capital>
+		<Latitude>42.5</Latitude>
+		<Longitude>1.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Angola </Country>
+		<Capital>Luanda</Capital>
+		<Latitude>-8.84</Latitude>
+		<Longitude>13.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Anguilla</Country>
+		<Capital>The Valley</Capital>
+		<Latitude>18.22</Latitude>
+		<Longitude>-63.05</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Antigua and Barbuda</Country>
+		<Capital>Saint John's</Capital>
+		<Latitude>17.12</Latitude>
+		<Longitude>-61.8</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Argentina </Country>
+		<Capital>Buenos Aires</Capital>
+		<Latitude>-34.58</Latitude>
+		<Longitude>-58.41</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Armenia </Country>
+		<Capital>Yerevan</Capital>
+		<Latitude>40.18</Latitude>
+		<Longitude>44.51</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Aruba</Country>
+		<Capital>Oranjestad</Capital>
+		<Latitude>12.52</Latitude>
+		<Longitude>-70.03</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Australia </Country>
+		<Capital>Canberra</Capital>
+		<Latitude>-35.28</Latitude>
+		<Longitude>149.13</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Austria</Country>
+		<Capital>Vienna</Capital>
+		<Latitude>48.21</Latitude>
+		<Longitude>48.21</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Azerbaijan </Country>
+		<Capital>Baku</Capital>
+		<Latitude>40.4</Latitude>
+		<Longitude>49.88</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bahrain </Country>
+		<Capital>Manama </Capital>
+		<Latitude>26.24</Latitude>
+		<Longitude>50.58</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bangladesh </Country>
+		<Capital>Dhaka</Capital>
+		<Latitude>23.72</Latitude>
+		<Longitude>90.41</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Barbados </Country>
+		<Capital>Bridgetown</Capital>
+		<Latitude>13.1</Latitude>
+		<Longitude>-59.62</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Belarus </Country>
+		<Capital>Minsk</Capital>
+		<Latitude>53.9</Latitude>
+		<Longitude>27.57</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Belgium </Country>
+		<Capital>Brussels </Capital>
+		<Latitude>50.85</Latitude>
+		<Longitude>4.35</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Belize </Country>
+		<Capital>Belmopan</Capital>
+		<Latitude>17.25</Latitude>
+		<Longitude>-88.77</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Benin </Country>
+		<Capital>Porto-Novo</Capital>
+		<Latitude>6.48</Latitude>
+		<Longitude>2.62</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bermuda</Country>
+		<Capital>Hamilton</Capital>
+		<Latitude>32.29</Latitude>
+		<Longitude>-64.78</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bhutan </Country>
+		<Capital>Thimphu</Capital>
+		<Latitude>27.48</Latitude>
+		<Longitude>89.6</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bolivia </Country>
+		<Capital>La Paz</Capital>
+		<Latitude>-16.5</Latitude>
+		<Longitude>-68.15</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bosnia and Herzegovina </Country>
+		<Capital>Sarajevo</Capital>
+		<Latitude>43.85</Latitude>
+		<Longitude>18.38</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Botswana </Country>
+		<Capital>Gaborone</Capital>
+		<Latitude>-24.65</Latitude>
+		<Longitude>25.91</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Brazil </Country>
+		<Capital>Brasilia</Capital>
+		<Latitude>-15.78</Latitude>
+		<Longitude>-47.93</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>British Indian Ocean Territory</Country>
+		<Capital>Diego Garcia</Capital>
+		<Latitude>7.24</Latitude>
+		<Longitude>72.46</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>British Virgin Islands</Country>
+		<Capital>Road Town</Capital>
+		<Latitude>18.42</Latitude>
+		<Longitude>-64.62</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Brunei </Country>
+		<Capital>Bandar Seri Begawan</Capital>
+		<Latitude>4.88</Latitude>
+		<Longitude>114.93</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bulgaria </Country>
+		<Capital>Sofia</Capital>
+		<Latitude>42.7</Latitude>
+		<Longitude>23.32</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Burkina Faso </Country>
+		<Capital>Ouagadougou</Capital>
+		<Latitude>12.37</Latitude>
+		<Longitude>-1.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Burma </Country>
+		<Capital>Rangoon</Capital>
+		<Latitude>16.8</Latitude>
+		<Longitude>96.15</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Burundi </Country>
+		<Capital>Bujumbura</Capital>
+		<Latitude>-3.38</Latitude>
+		<Longitude>29.36</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cambodia </Country>
+		<Capital>Phnom Penh</Capital>
+		<Latitude>11.55</Latitude>
+		<Longitude>104.92</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cameroon </Country>
+		<Capital>Yaounde</Capital>
+		<Latitude>3.87</Latitude>
+		<Longitude>11.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Canada </Country>
+		<Capital>Ottawa</Capital>
+		<Latitude>45.42</Latitude>
+		<Longitude>-75.69</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cape Verde</Country>
+		<Capital>Praia</Capital>
+		<Latitude>14.92</Latitude>
+		<Longitude>-23.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Central African Republic</Country>
+		<Capital>Bangui</Capital>
+		<Latitude>4.37</Latitude>
+		<Longitude>18.58</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Chad </Country>
+		<Capital>N'Djamena</Capital>
+		<Latitude>12.11</Latitude>
+		<Longitude>15.05</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Chile </Country>
+		<Capital>Santiago</Capital>
+		<Latitude>-33.43</Latitude>
+		<Longitude>-70.57</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>China </Country>
+		<Capital>Beijing</Capital>
+		<Latitude>39.91</Latitude>
+		<Longitude>116.4</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Colombia </Country>
+		<Capital>Bogota</Capital>
+		<Latitude>4.6</Latitude>
+		<Longitude>-74.08</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Comoros </Country>
+		<Capital>Moroni</Capital>
+		<Latitude>-11.7</Latitude>
+		<Longitude>43.24</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Costa Rica </Country>
+		<Capital>San Jose</Capital>
+		<Latitude>9.93</Latitude>
+		<Longitude>-84.08</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Croatia </Country>
+		<Capital>Zagreb</Capital>
+		<Latitude>45.8</Latitude>
+		<Longitude>16</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cuba </Country>
+		<Capital>Havana</Capital>
+		<Latitude>23.13</Latitude>
+		<Longitude>-82.36</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cyprus </Country>
+		<Capital>Nicosia</Capital>
+		<Latitude>35.17</Latitude>
+		<Longitude>33.37</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Czech Republic</Country>
+		<Capital>Prague</Capital>
+		<Latitude>50.09</Latitude>
+		<Longitude>14.42</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Democratic Republic of the Congo</Country>
+		<Capital>Kinshasa</Capital>
+		<Latitude>-4.33</Latitude>
+		<Longitude>15.32</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Denmark </Country>
+		<Capital>Copenhagen</Capital>
+		<Latitude>55.68</Latitude>
+		<Longitude>12.57</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Djibouti </Country>
+		<Capital>Djibouti</Capital>
+		<Latitude>11.6</Latitude>
+		<Longitude>43.15</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Dominica</Country>
+		<Capital>Roseau</Capital>
+		<Latitude>15.3</Latitude>
+		<Longitude>-61.4</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Dominican Republic </Country>
+		<Capital>Santo Domingo</Capital>
+		<Latitude>18.47</Latitude>
+		<Longitude>-69.9</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>East Timor </Country>
+		<Capital>Dili</Capital>
+		<Latitude>-8.56</Latitude>
+		<Longitude>125.57</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ecuador </Country>
+		<Capital>Quito</Capital>
+		<Latitude>-0.22</Latitude>
+		<Longitude>-78.5</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Egypt </Country>
+		<Capital>Cairo</Capital>
+		<Latitude>30.05</Latitude>
+		<Longitude>31.25</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>El Salvador </Country>
+		<Capital>San Salvador</Capital>
+		<Latitude>13.71</Latitude>
+		<Longitude>-89.2</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Equatorial Guinea </Country>
+		<Capital>Malabo</Capital>
+		<Latitude>3.75</Latitude>
+		<Longitude>8.78</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Eritrea </Country>
+		<Capital>Asmara</Capital>
+		<Latitude>15.33</Latitude>
+		<Longitude>38.93</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Estonia </Country>
+		<Capital>Tallinn</Capital>
+		<Latitude>59.44</Latitude>
+		<Longitude>24.75</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ethiopia </Country>
+		<Capital>Addis Ababa</Capital>
+		<Latitude>9.03</Latitude>
+		<Longitude>38.7</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Fiji </Country>
+		<Capital>Suva</Capital>
+		<Latitude>-18.13</Latitude>
+		<Longitude>178.42</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Finland </Country>
+		<Capital>Helsinki</Capital>
+		<Latitude>60.18</Latitude>
+		<Longitude>24.93</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>France</Country>
+		<Capital>Paris</Capital>
+		<Latitude>48.85</Latitude>
+		<Longitude>2.35</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Gabon </Country>
+		<Capital>Libreville</Capital>
+		<Latitude>0.38</Latitude>
+		<Longitude>9.45</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Georgia </Country>
+		<Capital>Tbilisi</Capital>
+		<Latitude>41.73</Latitude>
+		<Longitude>44.79</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Germany </Country>
+		<Capital>Berlin</Capital>
+		<Latitude>52.52</Latitude>
+		<Longitude>13.4</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ghana </Country>
+		<Capital>Accra</Capital>
+		<Latitude>5.55</Latitude>
+		<Longitude>-0.22</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Gibraltar</Country>
+		<Capital>Gibraltar</Capital>
+		<Latitude>36.13</Latitude>
+		<Longitude>-5.35</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Greece </Country>
+		<Capital>Athens</Capital>
+		<Latitude>37.98</Latitude>
+		<Longitude>23.73</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Greenland</Country>
+		<Capital>Nuuk</Capital>
+		<Latitude>64.17</Latitude>
+		<Longitude>-51.74</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Grenada </Country>
+		<Capital>Saint George's</Capital>
+		<Latitude>12.05</Latitude>
+		<Longitude>-61.75</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guadeloupe</Country>
+		<Capital>Basse-Terre</Capital>
+		<Latitude>16</Latitude>
+		<Longitude>-61.72</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guam</Country>
+		<Capital>Hagatna</Capital>
+		<Latitude>13.47</Latitude>
+		<Longitude>144.75</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guatemaia</Country>
+		<Capital>Gumatemaia City</Capital>
+		<Latitude>14.62</Latitude>
+		<Longitude>-90.53</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guernsey</Country>
+		<Capital>St Peter Port</Capital>
+		<Latitude>49.46</Latitude>
+		<Longitude>-2.54</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guinea</Country>
+		<Capital>Conakry</Capital>
+		<Latitude>9.51</Latitude>
+		<Longitude>-13.71</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guinea-Bissau</Country>
+		<Capital>Bissau</Capital>
+		<Latitude>11.85</Latitude>
+		<Longitude>-15.58</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guyana</Country>
+		<Capital>Georgetown</Capital>
+		<Latitude>6.8</Latitude>
+		<Longitude>-58.17</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Haiti </Country>
+		<Capital>Port-au-Prince</Capital>
+		<Latitude>18.54</Latitude>
+		<Longitude>-72.34</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Honduras </Country>
+		<Capital>Tegucigalpa</Capital>
+		<Latitude>14.1</Latitude>
+		<Longitude>-87.22</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Hongkong</Country>
+		<Capital>HongKong</Capital>
+		<Latitude>22.28</Latitude>
+		<Longitude>114.15</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Hungary </Country>
+		<Capital>Budapest</Capital>
+		<Latitude>47.5</Latitude>
+		<Longitude>19.08</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Iceland </Country>
+		<Capital>Reykjavik</Capital>
+		<Latitude>64.15</Latitude>
+		<Longitude>-21.95</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>India </Country>
+		<Capital>New Delhi</Capital>
+		<Latitude>28.61</Latitude>
+		<Longitude>77.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Indonesia </Country>
+		<Capital>Jakarta</Capital>
+		<Latitude>-6.17</Latitude>
+		<Longitude>106.83</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Iran </Country>
+		<Capital>Tehran</Capital>
+		<Latitude>35.67</Latitude>
+		<Longitude>51.42</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Iraq </Country>
+		<Capital>Baghdad</Capital>
+		<Latitude>33.34</Latitude>
+		<Longitude>44.39</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ireland </Country>
+		<Capital>Dublin</Capital>
+		<Latitude>53.33</Latitude>
+		<Longitude>-6.25</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Isle of man</Country>
+		<Capital>Douglas</Capital>
+		<Latitude>54.15</Latitude>
+		<Longitude>-4.48</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Israel </Country>
+		<Capital>Jerusalem</Capital>
+		<Latitude>31.77</Latitude>
+		<Longitude>35.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ivory Coast</Country>
+		<Capital>Yamoussoukro</Capital>
+		<Latitude>6.82</Latitude>
+		<Longitude>-5.28</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Italy </Country>
+		<Capital>Rome</Capital>
+		<Latitude>41.9</Latitude>
+		<Longitude>12.48</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Jamaica </Country>
+		<Capital>Kingston</Capital>
+		<Latitude>18</Latitude>
+		<Longitude>-76.79</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Japan </Country>
+		<Capital>Tokyo</Capital>
+		<Latitude>35.67</Latitude>
+		<Longitude>139.78</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Jordan </Country>
+		<Capital>Amman</Capital>
+		<Latitude>31.95</Latitude>
+		<Longitude>35.93</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kazakhstan </Country>
+		<Capital>Astana</Capital>
+		<Latitude>51.18</Latitude>
+		<Longitude>71.43</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kenya </Country>
+		<Capital>Nairobi</Capital>
+		<Latitude>-1.28</Latitude>
+		<Longitude>36.82</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kiribati </Country>
+		<Capital>Tarawa</Capital>
+		<Latitude>1.33</Latitude>
+		<Longitude>172.98</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kosovo</Country>
+		<Capital>Pristina</Capital>
+		<Latitude>42.67</Latitude>
+		<Longitude>21.17</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kuwait </Country>
+		<Capital>Kuwait City</Capital>
+		<Latitude>29.37</Latitude>
+		<Longitude>47.98</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kyrgyzstan </Country>
+		<Capital>Bishtek</Capital>
+		<Latitude>42.87</Latitude>
+		<Longitude>74.6</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Laos </Country>
+		<Capital>Vientiane</Capital>
+		<Latitude>17.97</Latitude>
+		<Longitude>102.6</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Latvia </Country>
+		<Capital>Riga</Capital>
+		<Latitude>56.95</Latitude>
+		<Longitude>24.1</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Lebanon </Country>
+		<Capital>Beirut</Capital>
+		<Latitude>33.87</Latitude>
+		<Longitude>35.51</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Lesotho </Country>
+		<Capital>Maseru</Capital>
+		<Latitude>-29.32</Latitude>
+		<Longitude>27.48</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Liberia </Country>
+		<Capital>Monrovia</Capital>
+		<Latitude>6.31</Latitude>
+		<Longitude>-10.8</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Libya </Country>
+		<Capital>Tripoli</Capital>
+		<Latitude>32.89</Latitude>
+		<Longitude>13.18</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Liechtenstein </Country>
+		<Capital>Vaduz</Capital>
+		<Latitude>47.14</Latitude>
+		<Longitude>9.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Lithuania </Country>
+		<Capital>Vilnius</Capital>
+		<Latitude>54.68</Latitude>
+		<Longitude>25.32</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Luxembourg </Country>
+		<Capital>Luxembourg</Capital>
+		<Latitude>49.61</Latitude>
+		<Longitude>6.13</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Macao</Country>
+		<Capital>Macao</Capital>
+		<Latitude>22.2</Latitude>
+		<Longitude>113.55</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Macedonia </Country>
+		<Capital>Skopje</Capital>
+		<Latitude>42</Latitude>
+		<Longitude>21.43</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Madagascar </Country>
+		<Capital>Antananarivo</Capital>
+		<Latitude>-18.92</Latitude>
+		<Longitude>47.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Malawi</Country>
+		<Capital>Lilongwe</Capital>
+		<Latitude>-13.98</Latitude>
+		<Longitude>33.78</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Malaysia</Country>
+		<Capital>Kuala Lumpur</Capital>
+		<Latitude>3.17</Latitude>
+		<Longitude>101.7</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Maldives</Country>
+		<Capital>Male</Capital>
+		<Latitude>4.18</Latitude>
+		<Longitude>73.51</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mali</Country>
+		<Capital>Bamako</Capital>
+		<Latitude>12.65</Latitude>
+		<Longitude>-8</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Malta</Country>
+		<Capital>Valletta</Capital>
+		<Latitude>35.9</Latitude>
+		<Longitude>14.51</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Marshall Islands</Country>
+		<Capital>Majuro</Capital>
+		<Latitude>7.1</Latitude>
+		<Longitude>171.38</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mauritania</Country>
+		<Capital>Nouakchott</Capital>
+		<Latitude>18.12</Latitude>
+		<Longitude>-16.04</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mauritius</Country>
+		<Capital>Port Louis</Capital>
+		<Latitude>-20.16</Latitude>
+		<Longitude>57.5</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mayotte</Country>
+		<Capital>Mamoutzou</Capital>
+		<Latitude>-12.78</Latitude>
+		<Longitude>45.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mexico</Country>
+		<Capital>Mexico City</Capital>
+		<Latitude>19.43</Latitude>
+		<Longitude>-99.14</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Micronesia</Country>
+		<Capital>Palikir</Capital>
+		<Latitude>6.92</Latitude>
+		<Longitude>158.15</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Moldova</Country>
+		<Capital>Chisinau</Capital>
+		<Latitude>47.01</Latitude>
+		<Longitude>28.86</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Monaco</Country>
+		<Capital>Monaco</Capital>
+		<Latitude>43.73</Latitude>
+		<Longitude>7.42</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mongolia</Country>
+		<Capital>Ulaanbaatar</Capital>
+		<Latitude>47.92</Latitude>
+		<Longitude>106.92</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Montenegro</Country>
+		<Capital>Podgorica</Capital>
+		<Latitude>42.44</Latitude>
+		<Longitude>19.26</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Montserrat</Country>
+		<Capital>Playmouth</Capital>
+		<Latitude>16.7</Latitude>
+		<Longitude>-62.22</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Morocco</Country>
+		<Capital>Rabat</Capital>
+		<Latitude>34.02</Latitude>
+		<Longitude>-6.83</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mozambique</Country>
+		<Capital>Maputo</Capital>
+		<Latitude>-25.97</Latitude>
+		<Longitude>32.59</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Myanmar</Country>
+		<Capital>Yagyigon</Capital>
+		<Latitude>16.81</Latitude>
+		<Longitude>96.16</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Namibia</Country>
+		<Capital>Windhoek</Capital>
+		<Latitude>-22.57</Latitude>
+		<Longitude>17.08</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Nauru</Country>
+		<Capital>Yaren District</Capital>
+		<Latitude>-0.54</Latitude>
+		<Longitude>166.93</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Nepal</Country>
+		<Capital>Kathmandu</Capital>
+		<Latitude>27.72</Latitude>
+		<Longitude>85.32</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Netherlands</Country>
+		<Capital>Amsterdam</Capital>
+		<Latitude>52.37</Latitude>
+		<Longitude>4.9</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Netherlands Antilles</Country>
+		<Capital>Willemstad</Capital>
+		<Latitude>12.1</Latitude>
+		<Longitude>-68.92</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>New Caledonia</Country>
+		<Capital>Noumea</Capital>
+		<Latitude>-22.27</Latitude>
+		<Longitude>166.45</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>New Zealand</Country>
+		<Capital>Wellington</Capital>
+		<Latitude>-41.28</Latitude>
+		<Longitude>174.78</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Nicaragua</Country>
+		<Capital>Managua</Capital>
+		<Latitude>12.15</Latitude>
+		<Longitude>-86.27</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Niger</Country>
+		<Capital>Niamey</Capital>
+		<Latitude>13.52</Latitude>
+		<Longitude>2.12</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Nigeria</Country>
+		<Capital>Abuja</Capital>
+		<Latitude>9.08</Latitude>
+		<Longitude>7.53</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Niue</Country>
+		<Capital>Alofi</Capital>
+		<Latitude>-19.02</Latitude>
+		<Longitude>-169.92</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>North Korea</Country>
+		<Capital>Pyongyang</Capital>
+		<Latitude>39.02</Latitude>
+		<Longitude>125.75</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Norway</Country>
+		<Capital>Oslo</Capital>
+		<Latitude>59.91</Latitude>
+		<Longitude>10.74</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Oman</Country>
+		<Capital>Muscat</Capital>
+		<Latitude>23.61</Latitude>
+		<Longitude>58.59</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Pakistan</Country>
+		<Capital>Islamabad</Capital>
+		<Latitude>33.61</Latitude>
+		<Longitude>73.06</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Palau</Country>
+		<Capital>Koror</Capital>
+		<Latitude>7.34</Latitude>
+		<Longitude>134.47</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Palestinian Territory</Country>
+		<Capital>East Jerusalem</Capital>
+		<Latitude>31.77</Latitude>
+		<Longitude>35.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Panama</Country>
+		<Capital>Panama City</Capital>
+		<Latitude>8.97</Latitude>
+		<Longitude>-79.53</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Papua New Guinea</Country>
+		<Capital>Port Moresby</Capital>
+		<Latitude>-9.46</Latitude>
+		<Longitude>147.19</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Paraguay</Country>
+		<Capital>Asuncion</Capital>
+		<Latitude>-25.27</Latitude>
+		<Longitude>-57.67</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Peru</Country>
+		<Capital>Lima</Capital>
+		<Latitude>-12.05</Latitude>
+		<Longitude>-77.05</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Philippines</Country>
+		<Capital>Manila</Capital>
+		<Latitude>14.6</Latitude>
+		<Longitude>120.98</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Pitcaim</Country>
+		<Capital>Adamstown </Capital>
+		<Latitude>-25.07</Latitude>
+		<Longitude>-130.1</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Poland</Country>
+		<Capital>Warsaw</Capital>
+		<Latitude>52.25</Latitude>
+		<Longitude>21</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Portugal</Country>
+		<Capital>Lisbon</Capital>
+		<Latitude>38.72</Latitude>
+		<Longitude>-9.13</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Puerto Rico</Country>
+		<Capital>San Juan</Capital>
+		<Latitude>18.47</Latitude>
+		<Longitude>-66.11</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Qatar</Country>
+		<Capital>Doha</Capital>
+		<Latitude>25.29</Latitude>
+		<Longitude>51.53</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Republic of the Congo</Country>
+		<Capital>Brazzaville</Capital>
+		<Latitude>-4.26</Latitude>
+		<Longitude>15.28</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Reunion</Country>
+		<Capital>Saint Denis</Capital>
+		<Latitude>-20.87</Latitude>
+		<Longitude>55.47</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Romania</Country>
+		<Capital>Bucharest</Capital>
+		<Latitude>44.43</Latitude>
+		<Longitude>26.1</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Russia</Country>
+		<Capital>Moscow</Capital>
+		<Latitude>55.75</Latitude>
+		<Longitude>37.62</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Rwanda</Country>
+		<Capital>Kigali</Capital>
+		<Latitude>-1.95</Latitude>
+		<Longitude>30.06</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saint Barthelemy</Country>
+		<Capital>Gustavia</Capital>
+		<Latitude>17.9</Latitude>
+		<Longitude>-62.85</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saint Helena </Country>
+		<Capital>Jamestown</Capital>
+		<Latitude>-15.93</Latitude>
+		<Longitude>-5.72</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saint Kitts and Nevis</Country>
+		<Capital>Basseterre</Capital>
+		<Latitude>17.3</Latitude>
+		<Longitude>-62.72</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saint Lucia</Country>
+		<Capital>Castries</Capital>
+		<Latitude>14</Latitude>
+		<Longitude>-61</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saint Martin</Country>
+		<Capital>Marigot</Capital>
+		<Latitude>18.08</Latitude>
+		<Longitude>63.08</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saint Vincent and the Grenadines</Country>
+		<Capital>Kingstown</Capital>
+		<Latitude>13.13</Latitude>
+		<Longitude>-61.22</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Samoa</Country>
+		<Capital>Apia</Capital>
+		<Latitude>-13.83</Latitude>
+		<Longitude>-171.73</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>San Marino</Country>
+		<Capital>San Marino</Capital>
+		<Latitude>43.93</Latitude>
+		<Longitude>12.45</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sao Tome and Principe</Country>
+		<Capital>Sao Tome</Capital>
+		<Latitude>0.33</Latitude>
+		<Longitude>6.73</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saudi Arabia</Country>
+		<Capital>Riyadh</Capital>
+		<Latitude>24.64</Latitude>
+		<Longitude>46.77</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Senegal</Country>
+		<Capital>Dakar</Capital>
+		<Latitude>14.7</Latitude>
+		<Longitude>-17.44</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Serbia and Montenegro</Country>
+		<Capital>Belgrade</Capital>
+		<Latitude>44.82</Latitude>
+		<Longitude>20.47</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Seychelles</Country>
+		<Capital>Victoria</Capital>
+		<Latitude>-4.62</Latitude>
+		<Longitude>55.45</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sierra Leone</Country>
+		<Capital>Freetown</Capital>
+		<Latitude>8.49</Latitude>
+		<Longitude>-13.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Singapore</Country>
+		<Capital>Singapure</Capital>
+		<Latitude>1.29</Latitude>
+		<Longitude>103.86</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Slovakia</Country>
+		<Capital>Bratislava</Capital>
+		<Latitude>48.15</Latitude>
+		<Longitude>17.12</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Slovenia</Country>
+		<Capital>Ljubljana</Capital>
+		<Latitude>46.06</Latitude>
+		<Longitude>14.51</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Solomon Islands</Country>
+		<Capital> Honiara</Capital>
+		<Latitude>-9.43</Latitude>
+		<Longitude>159.95</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Somalia</Country>
+		<Capital>Mogadishu</Capital>
+		<Latitude>2.04</Latitude>
+		<Longitude>45.34</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>South Africa</Country>
+		<Capital>Pretoria</Capital>
+		<Latitude>-25.71</Latitude>
+		<Longitude>28.23</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>South Korea</Country>
+		<Capital>Seoul</Capital>
+		<Latitude>37.57</Latitude>
+		<Longitude>127</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Spain</Country>
+		<Capital>Madrid</Capital>
+		<Latitude>40.42</Latitude>
+		<Longitude>-3.7</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sri Lanka</Country>
+		<Capital>Colombo</Capital>
+		<Latitude>6.93</Latitude>
+		<Longitude>79.85</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sudan</Country>
+		<Capital>Khartoum</Capital>
+		<Latitude>15.59</Latitude>
+		<Longitude>32.53</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Suriname</Country>
+		<Capital>Paramaribo</Capital>
+		<Latitude>5.83</Latitude>
+		<Longitude>-55.17</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Swaziland</Country>
+		<Capital>Mbabana</Capital>
+		<Latitude>-26.32</Latitude>
+		<Longitude>31.13</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sweden</Country>
+		<Capital>Stockholm</Capital>
+		<Latitude>59.33</Latitude>
+		<Longitude>18.06</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Switzerland</Country>
+		<Capital>Berne</Capital>
+		<Latitude>46.95</Latitude>
+		<Longitude>7.45</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Syria</Country>
+		<Capital>Damascus</Capital>
+		<Latitude>33.5</Latitude>
+		<Longitude>36.3</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Taiwan</Country>
+		<Capital>Taipei</Capital>
+		<Latitude>25.04</Latitude>
+		<Longitude>121.53</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Tajikistan</Country>
+		<Capital>Dushanbe</Capital>
+		<Latitude>38.56</Latitude>
+		<Longitude>68.77</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Tanzania</Country>
+		<Capital>Dar es Salaam</Capital>
+		<Latitude>-6.18</Latitude>
+		<Longitude>35.75</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Thailand</Country>
+		<Capital>Bangkok</Capital>
+		<Latitude>13.75</Latitude>
+		<Longitude>100.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>The Bahamas</Country>
+		<Capital>Nassau</Capital>
+		<Latitude>25.066667</Latitude>
+		<Longitude>-77.33333</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>The Gambia</Country>
+		<Capital>Banjul</Capital>
+		<Latitude>13.466667</Latitude>
+		<Longitude>-16.6</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Togo</Country>
+		<Capital>Lome</Capital>
+		<Latitude>6.13</Latitude>
+		<Longitude>1.22</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Tonga</Country>
+		<Capital>Nuku'alofa</Capital>
+		<Latitude>-21.13</Latitude>
+		<Longitude>-175.2</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Trinidad and Tobago</Country>
+		<Capital>Port-of-Spain</Capital>
+		<Latitude>10.65</Latitude>
+		<Longitude>-61.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Tunisia</Country>
+		<Capital>Tunis</Capital>
+		<Latitude>36.8</Latitude>
+		<Longitude>10.18</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Turkey</Country>
+		<Capital>Ankara</Capital>
+		<Latitude>39.93</Latitude>
+		<Longitude>32.86</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Turkmenistan</Country>
+		<Capital>Ashkabad </Capital>
+		<Latitude>37.95</Latitude>
+		<Longitude>58.38</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Tuvalu</Country>
+		<Capital>Vaiaku </Capital>
+		<Latitude>-8.52</Latitude>
+		<Longitude>179.22</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Uganda</Country>
+		<Capital>Kampala</Capital>
+		<Latitude>0.32</Latitude>
+		<Longitude>32.57</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ukraine</Country>
+		<Capital>Kiev</Capital>
+		<Latitude>50.43</Latitude>
+		<Longitude>30.52</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>United Arab Emirates</Country>
+		<Capital>Abu Dhabi</Capital>
+		<Latitude>24.47</Latitude>
+		<Longitude>54.37</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>United Kingdom</Country>
+		<Capital>London</Capital>
+		<Latitude>51.51</Latitude>
+		<Longitude>-0.13</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>United States</Country>
+		<Capital>Washington D.C.</Capital>
+		<Latitude>38.9</Latitude>
+		<Longitude>-77.04</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Uruguay</Country>
+		<Capital>Montevideo</Capital>
+		<Latitude>-34.86</Latitude>
+		<Longitude>-56.17</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Uzbekistan</Country>
+		<Capital>Tashkent</Capital>
+		<Latitude>41.32</Latitude>
+		<Longitude>69.25</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Vanuatu</Country>
+		<Capital>Port-Vila</Capital>
+		<Latitude>-17.73</Latitude>
+		<Longitude>168.32</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Vatican City</Country>
+		<Capital>Vatican City</Capital>
+		<Latitude>41.9</Latitude>
+		<Longitude>12.45</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Venezuela</Country>
+		<Capital>Caracas</Capital>
+		<Latitude>10.5</Latitude>
+		<Longitude>-66.92</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Vietnam</Country>
+		<Capital>Hanoi</Capital>
+		<Latitude>21.03</Latitude>
+		<Longitude>105.85</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Yemen</Country>
+		<Capital>Sanaa</Capital>
+		<Latitude>15.35</Latitude>
+		<Longitude>44.21</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Zambia</Country>
+		<Capital>Lusaka</Capital>
+		<Latitude>-15.42</Latitude>
+		<Longitude>28.28</Longitude>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Zimbabwe</Country>
+		<Capital>Harare</Capital>
+		<Latitude>-17.82</Latitude>
+		<Longitude>31.04</Longitude>
+	</CountryDetails>
+</CountryTable>

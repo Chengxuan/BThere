@@ -1,0 +1,68 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="BThere.Help"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="BThere" Style="{StaticResource PhoneTextNormalStyle}" FontSize="60" TextAlignment="Center">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.3,0" StartPoint="0.5,0">
+                        <GradientStop Color="Orange"/>
+                        <GradientStop Color="Green" Offset="1"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock Text="Help" Margin="9,5,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="45"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="1">
+            <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            
+                <TextBlock Text="Setup Page" Margin="0,10,0,553" Style="{StaticResource PhoneTextTitle1Style}" FontSize="22" TextWrapping="Wrap"/>
+            <TextBlock Text="This page will be displayed the first the application is installed and will display your location i.e country name, latitude and longitude. To continue, click on the continue button which will bring you to augmented reality page." Margin="0,39,0,473" Style="{StaticResource PhoneTextTitle1Style}" FontSize="15" TextWrapping="Wrap"/>
+
+            <TextBlock Text="Augmented Reality page" Margin="0,120,0,443" Style="{StaticResource PhoneTextTitle1Style}" FontSize="22" TextWrapping="Wrap"/>
+            <TextBlock Text="This page displays names of countries in the line of sight of the phone camera. Move the phone around to discover more countries. To select a country simply tap on it and the information about the country will be displayed use your finger to scroll the page.
+Also at the bottom of this page there are three button, the record video, quiz, game button each of which is a separate page." Margin="0,149,0,325" Style="{StaticResource PhoneTextTitle1Style}" FontSize="15" TextWrapping="Wrap"/>
+
+            <TextBlock Text="Basic info" Margin="0,268,0,295" Style="{StaticResource PhoneTextTitle1Style}" FontSize="22" TextWrapping="Wrap"/>
+            <TextBlock Text="The basic information page displays the country flag and the name of the selected country as well as information about the capital, cities, president, language, religions, currency, population and distance.
+Distance is the distance between the user's country and the selected country. ***
+An admin icon is displayed at the bottom of this page which unlocks the advanced feature of the app. when clicked will ask you for a password which the user used during the setup." Margin="0,297,0,145" Style="{StaticResource PhoneTextTitle1Style}" FontSize="15" TextWrapping="Wrap"/>
+
+            <TextBlock Text="Quiz page" Margin="0,446,0,117" Style="{StaticResource PhoneTextTitle1Style}" FontSize="22" TextWrapping="Wrap"/>
+            <TextBlock Text="The quiz is a multiple choose question where the user has to select one correct answer from a list of five options. There are 85 question in total and a counter displays the score of the player on the screen. Also a correct or wrong message is displayed when player gets a question right or wrong. " Margin="0,475,0,22" Style="{StaticResource PhoneTextTitle1Style}" FontSize="15" TextWrapping="Wrap"/>
+
+
+                <TextBlock Text="Game page" Margin="0,600,0,95" Style="{StaticResource PhoneTextTitle1Style}" FontSize="22" TextWrapping="Wrap"/>
+                <TextBlock Text="The game is a flag finding game, the player is asked to find the flag of a particular country. To achieve this, the player most move the phone about the around them by doing so country flags will appear on the screen and when they find the correct flag a simple tap on it will tell them if it is right or wrong." Margin="0,645,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="15" TextWrapping="Wrap"/>
+
+
+                <TextBlock Text="Advanced features" Margin="0,770,0,95" Style="{StaticResource PhoneTextTitle1Style}" FontSize="22" TextWrapping="Wrap"/>
+                <TextBlock Text="This option is available after the user enters their password this is because this feature are meet for the adult user. On this page they will have access to Twitter Hash tags, pictures (flickr), news, of the selected country as well as a video uploading feature called (time capsule)." Margin="0,815,0,0" Style="{StaticResource PhoneTextTitle1Style}" FontSize="15" TextWrapping="Wrap"/>
+
+
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+
+</phone:PhoneApplicationPage>

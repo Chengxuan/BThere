@@ -1,0 +1,21 @@
+F:\Downloads\AugmentedRealitySample\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.XML
+F:\Downloads\AugmentedRealitySample\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.dll
+F:\Downloads\AugmentedRealitySample\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.pdb
+F:\Downloads\AugmentedRealitySample\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.dll
+F:\Downloads\AugmentedRealitySample\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.pdb
+C:\Users\CHENGXUAN\Pictures\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.XML
+C:\Users\CHENGXUAN\Pictures\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.dll
+C:\Users\CHENGXUAN\Pictures\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.pdb
+C:\Users\CHENGXUAN\Pictures\WindowsPhone\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.dll
+C:\Users\CHENGXUAN\Pictures\WindowsPhone\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.pdb
+F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.XML
+F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.dll
+F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Debug\SharpGIS.AR.pdb
+F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.csprojResolveAssemblyReference.cache
+F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.dll
+F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\obj\Debug\SharpGIS.AR.pdb
+C:\Users\Shoaib Haider\Desktop\imagine cup\BETHERE 21 Feb 2013\BThere\BThere\SharpGISAR\SharpGIS.AR\Bin\Debug\SharpGIS.AR.XML
+C:\Users\Shoaib Haider\Desktop\imagine cup\BETHERE 21 Feb 2013\BThere\BThere\SharpGISAR\SharpGIS.AR\Bin\Debug\SharpGIS.AR.dll
+C:\Users\Shoaib Haider\Desktop\imagine cup\BETHERE 21 Feb 2013\BThere\BThere\SharpGISAR\SharpGIS.AR\Bin\Debug\SharpGIS.AR.pdb
+C:\Users\Shoaib Haider\Desktop\imagine cup\BETHERE 21 Feb 2013\BThere\BThere\SharpGISAR\SharpGIS.AR\obj\Debug\SharpGIS.AR.dll
+C:\Users\Shoaib Haider\Desktop\imagine cup\BETHERE 21 Feb 2013\BThere\BThere\SharpGISAR\SharpGIS.AR\obj\Debug\SharpGIS.AR.pdb

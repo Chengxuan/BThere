@@ -1,0 +1,1363 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CountryTable>
+	<CountryDetails>
+		<Country>Algeria</Country>
+		<Short_Name>dz</Short_Name>
+		<Latitude>36.76</Latitude>
+		<Longitude>3.05</Longitude>
+		<Capital>Algiers</Capital>
+		<President>Ahmed Ouyahia</President>
+		<Prime_Minister/>
+		<Population>35406303</Population>
+		<Other_Large_Cities>Oran , Constantine</Other_Large_Cities>
+		<Currency>Algerian Dinar</Currency>
+		<National_Day>2005-07-05</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.699</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Angola</Country>
+		<Short_Name>ao</Short_Name>
+		<Latitude>-8.84</Latitude>
+		<Longitude>13.23</Longitude>
+		<Capital>Luanda</Capital>
+		<President>José Eduardo dos Santos</President>
+		<Prime_Minister/>
+		<Population>18056072</Population>
+		<Other_Large_Cities>Huambo,Lubango</Other_Large_Cities>
+		<Currency>Kwanza</Currency>
+		<National_Day>2011-11-11</National_Day>
+		<Language>Portuguese</Language>
+		<Religion>Indigenous </Religion>
+		<Literacy_rate>0.701</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Argentina</Country>
+		<Short_Name>ar</Short_Name>
+		<Latitude>-34.58</Latitude>
+		<Longitude>-58.41</Longitude>
+		<Capital>Buenos Aires</Capital>
+		<President>Cristina Fernández de Kirchner</President>
+		<Prime_Minister/>
+		<Population>42192494</Population>
+		<Other_Large_Cities>Córdoba,Rosario,Mendoza</Other_Large_Cities>
+		<Currency>Argentine Peso</Currency>
+		<National_Day>2009-07-01</National_Day>
+		<Language>Spanish,English</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.972</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Australia</Country>
+		<Short_Name>au</Short_Name>
+		<Latitude>-35.28</Latitude>
+		<Longitude>149.13</Longitude>
+		<Capital>Canberra</Capital>
+		<President/>
+		<Prime_Minister>Julia Gillard</Prime_Minister>
+		<Population>21015576</Population>
+		<Other_Large_Cities>Sydney,Melbourne</Other_Large_Cities>
+		<Currency>Australian Dollar</Currency>
+		<National_Day/>
+		<Language>English</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Austria</Country>
+		<Short_Name>at</Short_Name>
+		<Latitude>48.21</Latitude>
+		<Longitude>48.21</Longitude>
+		<Capital>Vienna</Capital>
+		<President>Heinz Fischer</President>
+		<Prime_Minister/>
+		<Population>8219734</Population>
+		<Other_Large_Cities>Vienna</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2026-10-26</National_Day>
+		<Language>German</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.98</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bahrain</Country>
+		<Short_Name>bh</Short_Name>
+		<Latitude>26.24</Latitude>
+		<Longitude>50.58</Longitude>
+		<Capital>Manama</Capital>
+		<President>Hamad ibn Isa al-Khalifah</President>
+		<Prime_Minister/>
+		<Population>1248348</Population>
+		<Other_Large_Cities>Al-Manámah</Other_Large_Cities>
+		<Currency>Bahraini Dinar</Currency>
+		<National_Day>2016-12-16</National_Day>
+		<Language>Arabic,English,Farsi</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.946</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bangladesh</Country>
+		<Short_Name>bd</Short_Name>
+		<Latitude>23.72</Latitude>
+		<Longitude>90.41</Longitude>
+		<Capital>Dhaka</Capital>
+		<President>Zillur Rahman</President>
+		<Prime_Minister/>
+		<Population>161083804</Population>
+		<Other_Large_Cities>Dhaka</Other_Large_Cities>
+		<Currency>Taka</Currency>
+		<National_Day>2026-03-26</National_Day>
+		<Language>Bangle</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.568</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Belgium</Country>
+		<Short_Name>be</Short_Name>
+		<Latitude>50.85</Latitude>
+		<Longitude>4.35</Longitude>
+		<Capital>Brussels</Capital>
+		<President/>
+		<Prime_Minister>Elio Di Rupo</Prime_Minister>
+		<Population>10438353</Population>
+		<Other_Large_Cities>Brussels</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2021-07-01</National_Day>
+		<Language>Dutch,French,German</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Belize</Country>
+		<Short_Name>bz</Short_Name>
+		<Latitude>17.25</Latitude>
+		<Longitude>-88.77</Longitude>
+		<Capital>Belmopan</Capital>
+		<President/>
+		<Prime_Minister>Dean Barrow</Prime_Minister>
+		<Population>327719</Population>
+		<Other_Large_Cities>Belize City</Other_Large_Cities>
+		<Currency>Belize Dollar</Currency>
+		<National_Day>2021-09-01</National_Day>
+		<Language>English</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.769</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bhutan</Country>
+		<Short_Name>bt</Short_Name>
+		<Latitude>27.48</Latitude>
+		<Longitude>89.6</Longitude>
+		<Capital>Thimphu</Capital>
+		<President>King Jigme Khesar Namgyal Wangchukin</President>
+		<Prime_Minister/>
+		<Population>716896</Population>
+		<Other_Large_Cities>Thimphu</Other_Large_Cities>
+		<Currency>Indian Rupee</Currency>
+		<National_Day>2017-12-01</National_Day>
+		<Language>Dzongkha</Language>
+		<Religion>Lamaistic Buddhist</Religion>
+		<Literacy_rate>0.47</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bolivia</Country>
+		<Short_Name>bo</Short_Name>
+		<Latitude>-16.5</Latitude>
+		<Longitude>-68.15</Longitude>
+		<Capital>La Paz</Capital>
+		<President>Evo Morales</President>
+		<Prime_Minister/>
+		<Population>10426155</Population>
+		<Other_Large_Cities>Santa Cruz,Cochabamba,El Alto</Other_Large_Cities>
+		<Currency>Boliviano</Currency>
+		<National_Day>2006-08-01</National_Day>
+		<Language>Spanish</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.867</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Brazil</Country>
+		<Short_Name>br</Short_Name>
+		<Latitude>-15.78</Latitude>
+		<Longitude>-47.93</Longitude>
+		<Capital>Brasilia</Capital>
+		<President>Dilma Rousseff</President>
+		<Prime_Minister/>
+		<Population>408786</Population>
+		<Other_Large_Cities>Sao Paulo,Rio de Janeiro</Other_Large_Cities>
+		<Currency>Brazilian Real</Currency>
+		<National_Day>2007-09-01</National_Day>
+		<Language>Portuguese</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.886</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Bulgaria</Country>
+		<Short_Name>bg</Short_Name>
+		<Latitude>42.7</Latitude>
+		<Longitude>23.32</Longitude>
+		<Capital>Sofia</Capital>
+		<President>Rosen Plevneliev</President>
+		<Prime_Minister/>
+		<Population>17275115</Population>
+		<Other_Large_Cities>Sofia</Other_Large_Cities>
+		<Currency>Lev</Currency>
+		<National_Day>2003-03-01</National_Day>
+		<Language>Bulgarian</Language>
+		<Religion>Bulgarian</Religion>
+		<Literacy_rate>0.984</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Burma</Country>
+		<Short_Name>mm</Short_Name>
+		<Latitude>16.8</Latitude>
+		<Longitude>96.15</Longitude>
+		<Capital/>
+		<President/>
+		<Prime_Minister/>
+		<Population>10557259</Population>
+		<Other_Large_Cities>Yangon,Mandalay</Other_Large_Cities>
+		<Currency/>
+		<National_Day>2004-01-01</National_Day>
+		<Language/>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.899</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cambodia</Country>
+		<Short_Name>kh</Short_Name>
+		<Latitude>11.55</Latitude>
+		<Longitude>104.92</Longitude>
+		<Capital>Phnom Penh</Capital>
+		<President>Norodom Sihamoni</President>
+		<Prime_Minister/>
+		<Population>20129878</Population>
+		<Other_Large_Cities>Phnom Penh</Other_Large_Cities>
+		<Currency>Riel</Currency>
+		<National_Day>2009-11-01</National_Day>
+		<Language>Khmer,French</Language>
+		<Religion>Theravada Buddhist </Religion>
+		<Literacy_rate>0.736</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Canada</Country>
+		<Short_Name>ca</Short_Name>
+		<Latitude>45.42</Latitude>
+		<Longitude>-75.69</Longitude>
+		<Capital>Ottawa</Capital>
+		<President/>
+		<Prime_Minister>Stephen Harper</Prime_Minister>
+		<Population>523568</Population>
+		<Other_Large_Cities>Toronto,Montreal,Vancouver</Other_Large_Cities>
+		<Currency>Canadian Dollar</Currency>
+		<National_Day>2001-07-01</National_Day>
+		<Language>English</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Central African Republic</Country>
+		<Short_Name>cf</Short_Name>
+		<Latitude>4.37</Latitude>
+		<Longitude>18.58</Longitude>
+		<Capital>Bangui</Capital>
+		<President>François Bozizé</President>
+		<Prime_Minister/>
+		<Population>10758945</Population>
+		<Other_Large_Cities>Bangui</Other_Large_Cities>
+		<Currency>CFA Franc BEAC</Currency>
+		<National_Day>2013-08-01</National_Day>
+		<Language>French,Sangho</Language>
+		<Religion>Indigenous beliefs</Religion>
+		<Literacy_rate>0.56</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Chile</Country>
+		<Short_Name>cl</Short_Name>
+		<Latitude>-33.43</Latitude>
+		<Longitude>-70.57</Longitude>
+		<Capital>Santiago</Capital>
+		<President>Sebastián Piñera</President>
+		<Prime_Minister/>
+		<Population>1336718015</Population>
+		<Other_Large_Cities>Santiago</Other_Large_Cities>
+		<Currency>Chilean Peso</Currency>
+		<National_Day>2018-09-01</National_Day>
+		<Language>Spanish</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.957</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>China</Country>
+		<Short_Name>cn</Short_Name>
+		<Latitude>39.91</Latitude>
+		<Longitude>116.4</Longitude>
+		<Capital>Beijing</Capital>
+		<President>Hu Jintao</President>
+		<Prime_Minister/>
+		<Population>45239079</Population>
+		<Other_Large_Cities>Shanghai,Chungking,Shenzhen</Other_Large_Cities>
+		<Currency>Yuan Renminbi</Currency>
+		<National_Day>2001-10-01</National_Day>
+		<Language>Chinese</Language>
+		<Religion>Officially atheist</Religion>
+		<Literacy_rate>0.922</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Colombia</Country>
+		<Short_Name>co</Short_Name>
+		<Latitude>4.6</Latitude>
+		<Longitude>-74.08</Longitude>
+		<Capital>Bogota</Capital>
+		<President>Juan Manuel Santos</President>
+		<Prime_Minister/>
+		<Population>737284</Population>
+		<Other_Large_Cities>Medellín,Cali,Barranquilla</Other_Large_Cities>
+		<Currency>Colombian Peso</Currency>
+		<National_Day>2020-07-01</National_Day>
+		<Language>Spanish</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.904</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Comoros</Country>
+		<Short_Name>km</Short_Name>
+		<Latitude>-11.7</Latitude>
+		<Longitude>43.24</Longitude>
+		<Capital>Moroni</Capital>
+		<President>Ikililou Dhoinine</President>
+		<Prime_Minister/>
+		<Population>4366266</Population>
+		<Other_Large_Cities>Moroni</Other_Large_Cities>
+		<Currency>Comoro Franc</Currency>
+		<National_Day>2006-07-01</National_Day>
+		<Language>Arabi, French</Language>
+		<Religion>Sunni Muslim</Religion>
+		<Literacy_rate>0.749</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Croatia</Country>
+		<Short_Name>hr</Short_Name>
+		<Latitude>45.8</Latitude>
+		<Longitude>16</Longitude>
+		<Capital>Zagreb</Capital>
+		<President>Ivo Josipovic</President>
+		<Prime_Minister/>
+		<Population>11477459</Population>
+		<Other_Large_Cities>Zagreb</Other_Large_Cities>
+		<Currency>Croatian Kuna</Currency>
+		<National_Day>2008-10-01</National_Day>
+		<Language>Croatian</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.988</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Cuba</Country>
+		<Short_Name>cu</Short_Name>
+		<Latitude>23.13</Latitude>
+		<Longitude>-82.36</Longitude>
+		<Capital>Havana</Capital>
+		<President>Raúl Castro</President>
+		<Prime_Minister/>
+		<Population>1102677</Population>
+		<Other_Large_Cities>Havana</Other_Large_Cities>
+		<Currency>Cuban Peso</Currency>
+		<National_Day>2020-05-01</National_Day>
+		<Language>Spanish</Language>
+		<Religion>predominantly Roman Catholic</Religion>
+		<Literacy_rate>0.983</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Czech Republic</Country>
+		<Short_Name>cz</Short_Name>
+		<Latitude>50.09</Latitude>
+		<Longitude>14.42</Longitude>
+		<Capital>Prague</Capital>
+		<President>Petr Necas</President>
+		<Prime_Minister/>
+		<Population>5515575</Population>
+		<Other_Large_Cities>Prague</Other_Large_Cities>
+		<Currency>Czech Koruna</Currency>
+		<National_Day>2028-10-01</National_Day>
+		<Language>Czech</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Egypt</Country>
+		<Short_Name>eg</Short_Name>
+		<Latitude>30.05</Latitude>
+		<Longitude>31.25</Longitude>
+		<Capital>Cairo</Capital>
+		<President>Mohamed Morsi</President>
+		<Prime_Minister/>
+		<Population>6052064</Population>
+		<Other_Large_Cities>Cairo</Other_Large_Cities>
+		<Currency>Egyptian Pound</Currency>
+		<National_Day>2023-07-01</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.72</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ethiopia</Country>
+		<Short_Name>et</Short_Name>
+		<Latitude>9.03</Latitude>
+		<Longitude>38.7</Longitude>
+		<Capital>Addis Ababa</Capital>
+		<President>Girma Woldegiorgis</President>
+		<Prime_Minister/>
+		<Population>957780</Population>
+		<Other_Large_Cities>Addis Ababa</Other_Large_Cities>
+		<Currency>Ethiopian Birr</Currency>
+		<National_Day>2028-05-01</National_Day>
+		<Language>Amhraric</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.427</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Fiji</Country>
+		<Short_Name>fj</Short_Name>
+		<Latitude>-18.13</Latitude>
+		<Longitude>178.42</Longitude>
+		<Capital>Suva</Capital>
+		<President>Ratu Epeli Nailatikau</President>
+		<Prime_Minister/>
+		<Population>5255068</Population>
+		<Other_Large_Cities>Suva</Other_Large_Cities>
+		<Currency>Fiji Dollar</Currency>
+		<National_Day>2010-10-01</National_Day>
+		<Language>English</Language>
+		<Religion>Christian</Religion>
+		<Literacy_rate>0.937</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Finland</Country>
+		<Short_Name>fi</Short_Name>
+		<Latitude>60.18</Latitude>
+		<Longitude>24.93</Longitude>
+		<Capital>Helsinki</Capital>
+		<President>Tarja Halonen</President>
+		<Prime_Minister/>
+		<Population>65630692</Population>
+		<Other_Large_Cities>Helsinki</Other_Large_Cities>
+		<Currency>Euro replaces Markka</Currency>
+		<National_Day>2006-12-01</National_Day>
+		<Language>Finnish</Language>
+		<Religion>Evangelical Lutheran</Religion>
+		<Literacy_rate>1</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>France</Country>
+		<Short_Name>fr</Short_Name>
+		<Latitude>48.85</Latitude>
+		<Longitude>2.35</Longitude>
+		<Capital>Paris</Capital>
+		<President>François Hollande</President>
+		<Prime_Minister/>
+		<Population>1608321</Population>
+		<Other_Large_Cities>Paris</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2014-07-01</National_Day>
+		<Language>French</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Gabon</Country>
+		<Short_Name>ga</Short_Name>
+		<Latitude>0.38</Latitude>
+		<Longitude>9.45</Longitude>
+		<Capital>Libreville</Capital>
+		<President>Ali Bongo Ondimba</President>
+		<Prime_Minister/>
+		<Population>1797860</Population>
+		<Other_Large_Cities>Libreville</Other_Large_Cities>
+		<Currency>CFA Franc BEAC</Currency>
+		<National_Day>2017-08-01</National_Day>
+		<Language>French</Language>
+		<Religion>Christian</Religion>
+		<Literacy_rate>0.884</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Germany</Country>
+		<Short_Name>de</Short_Name>
+		<Latitude>52.52</Latitude>
+		<Longitude>13.4</Longitude>
+		<Capital>Berlin</Capital>
+		<President>Joachim Gauck</President>
+		<Prime_Minister/>
+		<Population>25241998</Population>
+		<Other_Large_Cities>Hamburg,Munich</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2003-10-01</National_Day>
+		<Language>German</Language>
+		<Religion>Protestant,Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Great Britain</Country>
+		<Short_Name>gb</Short_Name>
+		<Latitude>51.51</Latitude>
+		<Longitude>-0.13</Longitude>
+		<Capital>London</Capital>
+		<President/>
+		<Prime_Minister>David Cameron</Prime_Minister>
+		<Population>10767827</Population>
+		<Other_Large_Cities>London,Manchester,Liverpool</Other_Large_Cities>
+		<Currency>Pound</Currency>
+		<National_Day/>
+		<Language>English</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Greece</Country>
+		<Short_Name>gr</Short_Name>
+		<Latitude>37.98</Latitude>
+		<Longitude>23.73</Longitude>
+		<Capital>Athens</Capital>
+		<President>Karolos Papoulias</President>
+		<Prime_Minister/>
+		<Population>109011</Population>
+		<Other_Large_Cities>Thessaloníki</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2025-03-25</National_Day>
+		<Language>Greek</Language>
+		<Religion>Greek</Religion>
+		<Literacy_rate>0.96</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Grenada</Country>
+		<Short_Name>gd</Short_Name>
+		<Latitude>12.05</Latitude>
+		<Longitude>-61.75</Longitude>
+		<Capital>Saint George's</Capital>
+		<President/>
+		<Prime_Minister>Tillman Thomas</Prime_Minister>
+		<Population>14099032</Population>
+		<Other_Large_Cities>St. George's</Other_Large_Cities>
+		<Currency>East Caribbean Dollar</Currency>
+		<National_Day>2007-02-07</National_Day>
+		<Language>English</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.96</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Guinea</Country>
+		<Short_Name>gn</Short_Name>
+		<Latitude>9.51</Latitude>
+		<Longitude>-13.71</Longitude>
+		<Capital>Conakry</Capital>
+		<President>Alpha Condé</President>
+		<Prime_Minister/>
+		<Population>1628603</Population>
+		<Other_Large_Cities>Conakry</Other_Large_Cities>
+		<Currency>Guinea Franc</Currency>
+		<National_Day>2002-10-02</National_Day>
+		<Language>French</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.41</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Haiti</Country>
+		<Short_Name>ht</Short_Name>
+		<Latitude>18.54</Latitude>
+		<Longitude>-72.34</Longitude>
+		<Capital>Port-au-Prince</Capital>
+		<President>Michel Martelly</President>
+		<Prime_Minister/>
+		<Population>8296693</Population>
+		<Other_Large_Cities>Port-au-Prince</Other_Large_Cities>
+		<Currency>Gourde US Dollar</Currency>
+		<National_Day>2001-01-01</National_Day>
+		<Language>Creole,French</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.529</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Hungary</Country>
+		<Short_Name>hu</Short_Name>
+		<Latitude>47.5</Latitude>
+		<Longitude>19.08</Longitude>
+		<Capital>Budapest</Capital>
+		<President>Janos Ade</President>
+		<Prime_Minister/>
+		<Population>313183</Population>
+		<Other_Large_Cities>Debrecen,Szeged</Other_Large_Cities>
+		<Currency>Forint</Currency>
+		<National_Day>2015-03-15</National_Day>
+		<Language>Magyar</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Iceland</Country>
+		<Short_Name>is</Short_Name>
+		<Latitude>64.15</Latitude>
+		<Longitude>-21.95</Longitude>
+		<Capital>Reykjavik</Capital>
+		<President>Ólafur Ragnar Grímsson</President>
+		<Prime_Minister/>
+		<Population>1205073612</Population>
+		<Other_Large_Cities>Reykjavik</Other_Large_Cities>
+		<Currency>Iceland Krona</Currency>
+		<National_Day>2001-12-01</National_Day>
+		<Language>Icelandic,English</Language>
+		<Religion>Lutheran Church of Iceland</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>India</Country>
+		<Short_Name>in</Short_Name>
+		<Latitude>28.61</Latitude>
+		<Longitude>77.23</Longitude>
+		<Capital>New Delhi</Capital>
+		<President>Pranab Mukherjee</President>
+		<Prime_Minister/>
+		<Population>248216193</Population>
+		<Other_Large_Cities>Deli,Mumbai,Cheenai,Kolkata</Other_Large_Cities>
+		<Currency>Indian Rupee</Currency>
+		<National_Day>2015-08-15</National_Day>
+		<Language>Hindi,english</Language>
+		<Religion>Hindu,Islam</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Indonesia</Country>
+		<Short_Name>id</Short_Name>
+		<Latitude>-6.17</Latitude>
+		<Longitude>106.83</Longitude>
+		<Capital>Jakarta</Capital>
+		<President>Susilo Bambang Yudhoyono</President>
+		<Prime_Minister/>
+		<Population>78868711</Population>
+		<Other_Large_Cities>Surabaya,Bundung</Other_Large_Cities>
+		<Currency>Rupiah</Currency>
+		<National_Day>2017-08-17</National_Day>
+		<Language>Bahasa Indonesia</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.904</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Iran</Country>
+		<Short_Name>ir</Short_Name>
+		<Latitude>35.67</Latitude>
+		<Longitude>51.42</Longitude>
+		<Capital>Tehran</Capital>
+		<President>Ayatollah Ali Khamenei</President>
+		<Prime_Minister/>
+		<Population>31129225</Population>
+		<Other_Large_Cities>Mashhad,Esfahan,Karaj</Other_Large_Cities>
+		<Currency>Iranian Rial</Currency>
+		<National_Day/>
+		<Language>Persian</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.77</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Iraq</Country>
+		<Short_Name>iq</Short_Name>
+		<Latitude>33.34</Latitude>
+		<Longitude>44.39</Longitude>
+		<Capital>Baghdad</Capital>
+		<President>Jalal Talabani</President>
+		<Prime_Minister/>
+		<Population>4722028</Population>
+		<Other_Large_Cities>Mosul,Erbil,Basra</Other_Large_Cities>
+		<Currency>Iraqi Dinar</Currency>
+		<National_Day>2003-10-03</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.782</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ireland</Country>
+		<Short_Name>ie</Short_Name>
+		<Latitude>53.33</Latitude>
+		<Longitude>-6.25</Longitude>
+		<Capital>Dublin</Capital>
+		<President>Michael D. Higgins</President>
+		<Prime_Minister/>
+		<Population>7590758</Population>
+		<Other_Large_Cities>Dublin,Cork,Limerick,Galway</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2024-04-24</National_Day>
+		<Language>English,Irish</Language>
+		<Religion>Roman</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Israel</Country>
+		<Short_Name>il</Short_Name>
+		<Latitude>31.77</Latitude>
+		<Longitude>35.23</Longitude>
+		<Capital>Jerusalem</Capital>
+		<President>Shimon Peres</President>
+		<Prime_Minister/>
+		<Population>61261254</Population>
+		<Other_Large_Cities>Tel Aviv-Yafo,Haifa</Other_Large_Cities>
+		<Currency>New Israeli Sheqel</Currency>
+		<National_Day>2015-04-15</National_Day>
+		<Language>Hebrew</Language>
+		<Religion>Judaism</Religion>
+		<Literacy_rate>0.971</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Italy</Country>
+		<Short_Name>it</Short_Name>
+		<Latitude>41.9</Latitude>
+		<Longitude>12.48</Longitude>
+		<Capital>Rome</Capital>
+		<President>Giorgio Napolitano</President>
+		<Prime_Minister/>
+		<Population>2889187</Population>
+		<Other_Large_Cities>Milan,Naples,Turin,Palermo</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day/>
+		<Language>Italian</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.984</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Jamaica</Country>
+		<Short_Name>jm</Short_Name>
+		<Latitude>18</Latitude>
+		<Longitude>-76.79</Longitude>
+		<Capital>Kingston</Capital>
+		<President>Patrick Allen</President>
+		<Prime_Minister/>
+		<Population>127368088</Population>
+		<Other_Large_Cities>Kingston,Montego Bay</Other_Large_Cities>
+		<Currency>Jamaican Dollar</Currency>
+		<National_Day>2006-08-06</National_Day>
+		<Language>English</Language>
+		<Religion>Protestant</Religion>
+		<Literacy_rate>0.879</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Japan</Country>
+		<Short_Name>jp</Short_Name>
+		<Latitude>35.67</Latitude>
+		<Longitude>139.78</Longitude>
+		<Capital>Tokyo</Capital>
+		<President/>
+		<Prime_Minister>Shinzo Abe</Prime_Minister>
+		<Population>6508887</Population>
+		<Other_Large_Cities>Tokyo,Yokohama,Osaka</Other_Large_Cities>
+		<Currency>Yen</Currency>
+		<National_Day/>
+		<Language>Japanede</Language>
+		<Religion>Shintoist </Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kenya</Country>
+		<Short_Name>ke</Short_Name>
+		<Latitude>-1.28</Latitude>
+		<Longitude>36.82</Longitude>
+		<Capital>Nairobi</Capital>
+		<President>Mwai Kibaki</President>
+		<Prime_Minister/>
+		<Population>101998</Population>
+		<Other_Large_Cities>Mombasa</Other_Large_Cities>
+		<Currency>Kenyan Shilling</Currency>
+		<National_Day>2012-12-12</National_Day>
+		<Language>English</Language>
+		<Religion>Protestant </Religion>
+		<Literacy_rate>0.874</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kosovo</Country>
+		<Short_Name>ks</Short_Name>
+		<Latitude>42.67</Latitude>
+		<Longitude>21.17</Longitude>
+		<Capital>Pristina</Capital>
+		<President>Atifete Jahjaga</President>
+		<Prime_Minister/>
+		<Population>2646314</Population>
+		<Other_Large_Cities>Pristina,Prizren,Pec</Other_Large_Cities>
+		<Currency/>
+		<National_Day>2017-02-17</National_Day>
+		<Language>Albanian</Language>
+		<Religion/>
+		<Literacy_rate>0.919</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Kuwait</Country>
+		<Short_Name>kw</Short_Name>
+		<Latitude>29.37</Latitude>
+		<Longitude>47.98</Longitude>
+		<Capital>Kuwait City</Capital>
+		<President>Sheik Sabah al-Ahmad</President>
+		<Prime_Minister/>
+		<Population>5496737</Population>
+		<Other_Large_Cities>As Salimiyah,Sabah as Salim</Other_Large_Cities>
+		<Currency>Kuwaiti Dinar</Currency>
+		<National_Day>2025-02-25</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.933</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Latvia</Country>
+		<Short_Name>lv</Short_Name>
+		<Latitude>56.95</Latitude>
+		<Longitude>24.1</Longitude>
+		<Capital>Riga</Capital>
+		<President>Andris Berzins</President>
+		<Prime_Minister/>
+		<Population>4140289</Population>
+		<Other_Large_Cities>Riga,Daugavpils</Other_Large_Cities>
+		<Currency>Latvian Lats</Currency>
+		<National_Day>2018-11-18</National_Day>
+		<Language>Latvian</Language>
+		<Religion>Lutheran</Religion>
+		<Literacy_rate>0.998</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Liberia</Country>
+		<Short_Name>lr</Short_Name>
+		<Latitude>6.31</Latitude>
+		<Longitude>-10.8</Longitude>
+		<Capital>Monrovia</Capital>
+		<President>Ellen Johnson-Sirleaf</President>
+		<Prime_Minister/>
+		<Population>6461454</Population>
+		<Other_Large_Cities>Monrovia,Kakata,Harper</Other_Large_Cities>
+		<Currency>Liberian Dollar</Currency>
+		<National_Day>2026-07-26</National_Day>
+		<Language>English</Language>
+		<Religion>traditional,Christian,Islam</Religion>
+		<Literacy_rate>0.608</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Libya</Country>
+		<Short_Name>ly</Short_Name>
+		<Latitude>32.89</Latitude>
+		<Longitude>13.18</Longitude>
+		<Capital>Tripoli</Capital>
+		<President>Mohamed Magarief</President>
+		<Prime_Minister/>
+		<Population>35002</Population>
+		<Other_Large_Cities>Tripoli,Benghazi</Other_Large_Cities>
+		<Currency>Lybian Dinar</Currency>
+		<National_Day>2024-12-24</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.892</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Lithuania</Country>
+		<Short_Name>lt</Short_Name>
+		<Latitude>54.68</Latitude>
+		<Longitude>25.32</Longitude>
+		<Capital>Vilnius</Capital>
+		<President>Dalia Grybauskaite</President>
+		<Prime_Minister/>
+		<Population>497538</Population>
+		<Other_Large_Cities>Vilnius,Kaunas</Other_Large_Cities>
+		<Currency>Lithuanian Litas</Currency>
+		<National_Day>2016-02-16</National_Day>
+		<Language>Lithuanian</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.979</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Maldives</Country>
+		<Short_Name>mv</Short_Name>
+		<Latitude>4.18</Latitude>
+		<Longitude>73.51</Longitude>
+		<Capital>Male</Capital>
+		<President>Mohamed Waheed Hassan</President>
+		<Prime_Minister/>
+		<Population>13796354</Population>
+		<Other_Large_Cities>Male,Hithadhoo,Thinadhoo </Other_Large_Cities>
+		<Currency>Rufiyaa</Currency>
+		<National_Day>2026-07-26</National_Day>
+		<Language>Maldivian Dhivehi</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.993</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mali</Country>
+		<Short_Name>ml</Short_Name>
+		<Latitude>12.65</Latitude>
+		<Longitude>-8</Longitude>
+		<Capital>Bamako</Capital>
+		<President>Dioncounda Traore</President>
+		<Prime_Minister/>
+		<Population>406771</Population>
+		<Other_Large_Cities>Bamako,Sikasso,Mopti </Other_Large_Cities>
+		<Currency>CFA Franc BCEAO</Currency>
+		<National_Day>2022-09-22</National_Day>
+		<Language>French</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.311</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Malta</Country>
+		<Short_Name>mt</Short_Name>
+		<Latitude>35.9</Latitude>
+		<Longitude>14.51</Longitude>
+		<Capital>Valletta</Capital>
+		<President>George Abela</President>
+		<Prime_Minister/>
+		<Population>65859</Population>
+		<Other_Large_Cities>Birkirkara,Qormi,Mosta </Other_Large_Cities>
+		<Currency>Maltese Lira</Currency>
+		<National_Day>2021-09-21</National_Day>
+		<Language>French</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.928</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mexico</Country>
+		<Short_Name>mx</Short_Name>
+		<Latitude>19.43</Latitude>
+		<Longitude>-99.14</Longitude>
+		<Capital>Mexico City</Capital>
+		<President>Enrique Peña Nieto</President>
+		<Prime_Minister/>
+		<Population>107154</Population>
+		<Other_Large_Cities>Ecatepec,Guadalajara</Other_Large_Cities>
+		<Currency>Mexican Peso</Currency>
+		<National_Day>2016-09-16</National_Day>
+		<Language>Spanish</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.861</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Monaco</Country>
+		<Short_Name>mc</Short_Name>
+		<Latitude>43.73</Latitude>
+		<Longitude>7.42</Longitude>
+		<Capital>Monaco</Capital>
+		<President>Prince Albert II</President>
+		<Prime_Minister/>
+		<Population>3086918</Population>
+		<Other_Large_Cities>Monte Carlo</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day/>
+		<Language>French</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Mongolia</Country>
+		<Short_Name>mn</Short_Name>
+		<Latitude>47.92</Latitude>
+		<Longitude>106.92</Longitude>
+		<Capital>Ulaanbaatar</Capital>
+		<President>Tsakhiagiyn Elbegdorj</President>
+		<Prime_Minister/>
+		<Population>666730</Population>
+		<Other_Large_Cities>Ulaan Baatar</Other_Large_Cities>
+		<Currency>Tugrik</Currency>
+		<National_Day>2029-12-29</National_Day>
+		<Language>Mongolian</Language>
+		<Religion>Buddhist Lamaist</Religion>
+		<Literacy_rate>0.974</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Morocco</Country>
+		<Short_Name>ma</Short_Name>
+		<Latitude>34.02</Latitude>
+		<Longitude>-6.83</Longitude>
+		<Capital>Rabat</Capital>
+		<President>King Muhammed VI</President>
+		<Prime_Minister/>
+		<Population>22061451</Population>
+		<Other_Large_Cities>Casablanca,Fez,Marrakech</Other_Large_Cities>
+		<Currency>Moroccan Dirham</Currency>
+		<National_Day>2018-11-18</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.97</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Myanmar</Country>
+		<Short_Name>mm</Short_Name>
+		<Latitude>16.81</Latitude>
+		<Longitude>96.16</Longitude>
+		<Capital>Rangoon </Capital>
+		<President>Lt. Gen. Thein Sein</President>
+		<Prime_Minister/>
+		<Population>2128471</Population>
+		<Other_Large_Cities>Rangoon</Other_Large_Cities>
+		<Currency>Kyat</Currency>
+		<National_Day>2004-01-04</National_Day>
+		<Language>Burmese</Language>
+		<Religion>Buddhist</Religion>
+		<Literacy_rate>0</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Namibia</Country>
+		<Short_Name>na</Short_Name>
+		<Latitude>-22.57</Latitude>
+		<Longitude>17.08</Longitude>
+		<Capital>Windhoek</Capital>
+		<President>Hifikepunye Pohamba</President>
+		<Prime_Minister/>
+		<Population>28951852</Population>
+		<Other_Large_Cities>Windhoek,Swakopmund</Other_Large_Cities>
+		<Currency>Rand Namibia Dollar</Currency>
+		<National_Day>2021-03-21</National_Day>
+		<Language>Afrikaans,English</Language>
+		<Religion>Christian </Religion>
+		<Literacy_rate>0.888</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>New Zealand</Country>
+		<Short_Name>nz</Short_Name>
+		<Latitude>-41.28</Latitude>
+		<Longitude>174.78</Longitude>
+		<Capital>Wellington</Capital>
+		<President>Te Kawana Tianara o Aotearoa</President>
+		<Prime_Minister>John Key</Prime_Minister>
+		<Population>5995928</Population>
+		<Other_Large_Cities>Auckland,Christchurch</Other_Large_Cities>
+		<Currency>New Zealand Dollar</Currency>
+		<National_Day/>
+		<Language>English</Language>
+		<Religion>Anglican, Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Pakistan</Country>
+		<Short_Name>pk</Short_Name>
+		<Latitude>33.61</Latitude>
+		<Longitude>73.06</Longitude>
+		<Capital>Islamabad</Capital>
+		<President>Asif Ali Zardari</President>
+		<Prime_Minister/>
+		<Population>21032</Population>
+		<Other_Large_Cities>Islamabad,karachi,Lahore</Other_Large_Cities>
+		<Currency>Pakistan Rupee</Currency>
+		<National_Day>2013-08-14</National_Day>
+		<Language>Urdu,Punjabi,sindhi,Pashtu</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.549</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Palau</Country>
+		<Short_Name>pw</Short_Name>
+		<Latitude>7.34</Latitude>
+		<Longitude>134.47</Longitude>
+		<Capital>Melekeok</Capital>
+		<President>Johnson Toribiong</President>
+		<Prime_Minister/>
+		<Population>2514845</Population>
+		<Other_Large_Cities>Koror</Other_Large_Cities>
+		<Currency>US Dollar</Currency>
+		<National_Day>2001-10-01</National_Day>
+		<Language>Palauan</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.92</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Panama</Country>
+		<Short_Name>pa</Short_Name>
+		<Latitude>8.97</Latitude>
+		<Longitude>-79.53</Longitude>
+		<Capital>Jerusalem</Capital>
+		<President>Ricardo Martinelli</President>
+		<Prime_Minister/>
+		<Population>6310129</Population>
+		<Other_Large_Cities>San Miguelito,Tocumen</Other_Large_Cities>
+		<Currency>US Dollar</Currency>
+		<National_Day>2028-11-28</National_Day>
+		<Language>Spanish</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.919</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Portugal</Country>
+		<Short_Name>pt</Short_Name>
+		<Latitude>38.72</Latitude>
+		<Longitude>-9.13</Longitude>
+		<Capital>Lisbon</Capital>
+		<President>Aníbal Cavaco Silva</President>
+		<Prime_Minister/>
+		<Population>1951591</Population>
+		<Other_Large_Cities>Oporto</Other_Large_Cities>
+		<Currency>Portugese Escud</Currency>
+		<National_Day>2001-12-01</National_Day>
+		<Language>Portuguese</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.952</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Romania</Country>
+		<Short_Name>ro</Short_Name>
+		<Latitude>44.43</Latitude>
+		<Longitude>26.1</Longitude>
+		<Capital>Bucharest</Capital>
+		<President>Traian Basescu</President>
+		<Prime_Minister/>
+		<Population>138082178</Population>
+		<Other_Large_Cities>Cluj-Napoca,Timisoara,Iasi</Other_Large_Cities>
+		<Currency>Leu</Currency>
+		<National_Day>2009-05-09</National_Day>
+		<Language>Romanian</Language>
+		<Religion>Romanian Orthodox</Religion>
+		<Literacy_rate>0.977</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Russia</Country>
+		<Short_Name>ru</Short_Name>
+		<Latitude>55.75</Latitude>
+		<Longitude>37.62</Longitude>
+		<Capital>Moscow</Capital>
+		<President>Vladimir Putin</President>
+		<Prime_Minister/>
+		<Population>11689696</Population>
+		<Other_Large_Cities>St. Petersburg,Novosibirsk,Yekaterinburg</Other_Large_Cities>
+		<Currency>Russian Ruble</Currency>
+		<National_Day>2012-06-12</National_Day>
+		<Language>Russian</Language>
+		<Religion>Russian Orthodox</Religion>
+		<Literacy_rate>0.996</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Samoa</Country>
+		<Short_Name>ws</Short_Name>
+		<Latitude>-13.83</Latitude>
+		<Longitude>-171.73</Longitude>
+		<Capital>Apia</Capital>
+		<President>Tuiatua Tupua Tamasese Efi</President>
+		<Prime_Minister/>
+		<Population>32140</Population>
+		<Other_Large_Cities>Faleula,Sisuega</Other_Large_Cities>
+		<Currency>Tala</Currency>
+		<National_Day>2001-01-01</National_Day>
+		<Language>Samoan,English</Language>
+		<Religion>Congregationalist</Religion>
+		<Literacy_rate>0.997</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Saudi Arabia</Country>
+		<Short_Name>sa</Short_Name>
+		<Latitude>24.64</Latitude>
+		<Longitude>46.77</Longitude>
+		<Capital>Riyadh</Capital>
+		<President>King Abdullah</President>
+		<Prime_Minister/>
+		<Population>5254800</Population>
+		<Other_Large_Cities>Jeddah,Makkah</Other_Large_Cities>
+		<Currency>Saudi Riyal</Currency>
+		<National_Day>2023-09-23</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.866</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Senegal</Country>
+		<Short_Name>sn</Short_Name>
+		<Latitude>14.7</Latitude>
+		<Longitude>-17.44</Longitude>
+		<Capital>Dakar</Capital>
+		<President>Macky Sall</President>
+		<Prime_Minister/>
+		<Population>7276604</Population>
+		<Other_Large_Cities>Dakar</Other_Large_Cities>
+		<Currency>CFA Franc BCEAO</Currency>
+		<National_Day>2004-04-04</National_Day>
+		<Language>French,Wolfo</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.393</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Singapore</Country>
+		<Short_Name>sg</Short_Name>
+		<Latitude>1.29</Latitude>
+		<Longitude>103.86</Longitude>
+		<Capital>Singapore</Capital>
+		<President>Tony Tan Keng Yam</President>
+		<Prime_Minister/>
+		<Population>5483088</Population>
+		<Other_Large_Cities>Singapore city</Other_Large_Cities>
+		<Currency>Singapore Dollar</Currency>
+		<National_Day>2009-08-09</National_Day>
+		<Language>Mandarin,English,Malay</Language>
+		<Religion>Buddhist </Religion>
+		<Literacy_rate>0.925</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Spain</Country>
+		<Short_Name>es</Short_Name>
+		<Latitude>40.42</Latitude>
+		<Longitude>-3.7</Longitude>
+		<Capital>Madrid</Capital>
+		<President/>
+		<Prime_Minister>Mariano Rajoy</Prime_Minister>
+		<Population>21481334</Population>
+		<Other_Large_Cities>Madrid,Barcelona,Valencia,Sevilla</Other_Large_Cities>
+		<Currency>Euro</Currency>
+		<National_Day>2012-10-12</National_Day>
+		<Language>Spanish</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.977</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sri Lanka</Country>
+		<Short_Name>lk</Short_Name>
+		<Latitude>6.93</Latitude>
+		<Longitude>79.85</Longitude>
+		<Capital>Colombo</Capital>
+		<President>Mahinda Rajapaksa</President>
+		<Prime_Minister/>
+		<Population>34206710</Population>
+		<Other_Large_Cities>Colombo,Jaffna,Kandy</Other_Large_Cities>
+		<Currency>Sri Lanka Rupee</Currency>
+		<National_Day>2004-02-04</National_Day>
+		<Language>Sinhala</Language>
+		<Religion>Buddhist</Religion>
+		<Literacy_rate>0.912</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Sudan</Country>
+		<Short_Name>sd</Short_Name>
+		<Latitude>15.59</Latitude>
+		<Longitude>32.53</Longitude>
+		<Capital>Khartoum</Capital>
+		<President>Omar Hassan Ahmad al-Bashir</President>
+		<Prime_Minister/>
+		<Population>560157</Population>
+		<Other_Large_Cities>Omdurman,Khartoum,Nyala</Other_Large_Cities>
+		<Currency>Sudanese Dinar</Currency>
+		<National_Day>2009-07-09</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.611</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Switzerland</Country>
+		<Short_Name>ch</Short_Name>
+		<Latitude>46.95</Latitude>
+		<Longitude>7.45</Longitude>
+		<Capital>Bern</Capital>
+		<President>Eveline Widmer-Schlumpf</President>
+		<Prime_Minister/>
+		<Population>22530746</Population>
+		<Other_Large_Cities>Zurich,Geneva,Basel,Bern</Other_Large_Cities>
+		<Currency>Swiss Franc</Currency>
+		<National_Day>2001-08-01</National_Day>
+		<Language>German,French</Language>
+		<Religion>Roman Catholic</Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Syria</Country>
+		<Short_Name>sy</Short_Name>
+		<Latitude>33.5</Latitude>
+		<Longitude>36.3</Longitude>
+		<Capital>Damascus</Capital>
+		<President>Bashar al-Assad</President>
+		<Prime_Minister/>
+		<Population>23234936</Population>
+		<Other_Large_Cities>Aleppo,Homs,Latakia,Hama</Other_Large_Cities>
+		<Currency>Syrian Pound</Currency>
+		<National_Day>2017-04-17</National_Day>
+		<Language>Arabic</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.796</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Taiwan</Country>
+		<Short_Name>tw</Short_Name>
+		<Latitude>25.04</Latitude>
+		<Longitude>121.53</Longitude>
+		<Capital>Taipei</Capital>
+		<President>Ma Ying-jeou</President>
+		<Prime_Minister/>
+		<Population>7768385</Population>
+		<Other_Large_Cities>Kaohsiung,Tai Chung,Tainan</Other_Large_Cities>
+		<Currency>New Taiwan Dollar</Currency>
+		<National_Day>2010-10-10</National_Day>
+		<Language>Chinese,Tiwanese</Language>
+		<Religion>Mixture of Buddhist, Confucian</Religion>
+		<Literacy_rate>0.982</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Tanzania</Country>
+		<Short_Name>tz</Short_Name>
+		<Latitude>-6.18</Latitude>
+		<Longitude>35.75</Longitude>
+		<Capital>Dar es Salaam</Capital>
+		<President>Jakaya Kikwete</President>
+		<Prime_Minister/>
+		<Population>67091089</Population>
+		<Other_Large_Cities>Mwanza,Zanzibar,Morogoro</Other_Large_Cities>
+		<Currency>Tanzanian Shilling</Currency>
+		<National_Day>2009-12-09</National_Day>
+		<Language>Swahili</Language>
+		<Religion>Christian,Islam</Religion>
+		<Literacy_rate>0.694</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Turkey</Country>
+		<Short_Name>tr</Short_Name>
+		<Latitude>39.93</Latitude>
+		<Longitude>32.86</Longitude>
+		<Capital>Ankara</Capital>
+		<President>Abdullah Gul</President>
+		<Prime_Minister/>
+		<Population>5054828</Population>
+		<Other_Large_Cities>Istanbul,Ankara,Izmir,Bursa</Other_Large_Cities>
+		<Currency>Turkish Lira</Currency>
+		<National_Day>2029-10-29</National_Day>
+		<Language>Turkish</Language>
+		<Religion>Islam</Religion>
+		<Literacy_rate>0.941</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Ukraine</Country>
+		<Short_Name>ua</Short_Name>
+		<Latitude>50.43</Latitude>
+		<Longitude>30.52</Longitude>
+		<Capital>Kyiv</Capital>
+		<President>Viktor Yanukovich</President>
+		<Prime_Minister/>
+		<Population>5314317</Population>
+		<Other_Large_Cities>Kyyiv,Donetsk,Odesa,L'viv</Other_Large_Cities>
+		<Currency>Hryvnia</Currency>
+		<National_Day>2024-08-04</National_Day>
+		<Language>Ukrania,Russian</Language>
+		<Religion>Ukrainian Orthodox </Religion>
+		<Literacy_rate>0.997</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>USA</Country>
+		<Short_Name>us</Short_Name>
+		<Latitude>38.9</Latitude>
+		<Longitude>-77.04</Longitude>
+		<Capital>Washington D.C</Capital>
+		<President>Barack H. Obama</President>
+		<Prime_Minister/>
+		<Population>3316328</Population>
+		<Other_Large_Cities>New York,Chicago,Los Angeles,Houston</Other_Large_Cities>
+		<Currency>US Dollar</Currency>
+		<National_Day>2004-07-04</National_Day>
+		<Language>English</Language>
+		<Religion>Protestant </Religion>
+		<Literacy_rate>0.99</Literacy_rate>
+	</CountryDetails>
+	<CountryDetails>
+		<Country>Zimbabwe</Country>
+		<Short_Name>zw</Short_Name>
+		<Latitude>-17.82</Latitude>
+		<Longitude>31.04</Longitude>
+		<Capital>Harare</Capital>
+		<President>Robert Mugabe</President>
+		<Prime_Minister/>
+		<Population>12754378</Population>
+		<Other_Large_Cities>Harare,Bulawayo,Mutare</Other_Large_Cities>
+		<Currency>Zimbabwe Dollar</Currency>
+		<National_Day>2018-04-18</National_Day>
+		<Language>English,Shona</Language>
+		<Religion>syncretic </Religion>
+		<Literacy_rate>0.907</Literacy_rate>
+	</CountryDetails>
+</CountryTable>

@@ -1,0 +1,20 @@
+﻿<xapCache source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\BeThere.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013-01-25 23:00:51">
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2013-01-25 23:00:51" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\market173.png" archivePath="market173.png" lastWriteTime="2013-01-25 14:37:24" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2013-01-25 14:39:17" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\obj\Release\ARSampleApp.dll" archivePath="ARSampleApp.dll" lastWriteTime="2013-01-25 23:00:51" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\SharpGIS.AR\Bin\Release\SharpGIS.AR.dll" archivePath="SharpGIS.AR.dll" lastWriteTime="2013-01-25 10:32:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Background.png" archivePath="Background.png" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\res\CountryList.xml" archivePath="res\CountryList.xml" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2013-01-25 22:58:40" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\SplashScreenImage.screen-720p.jpg" archivePath="SplashScreenImage.screen-720p.jpg" lastWriteTime="2013-01-25 14:27:14" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\SplashScreenImage.screen-WVGA.jpg" archivePath="SplashScreenImage.screen-WVGA.jpg" lastWriteTime="2013-01-25 14:27:14" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\SplashScreenImage.screen-WXGA.jpg" archivePath="SplashScreenImage.screen-WXGA.jpg" lastWriteTime="2013-01-25 14:27:14" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2013-01-25 10:32:30" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2013-01-25 14:39:17" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\res\CountryList.xml" archivePath="res\CountryList.xml" lastWriteTime="2013-01-24 22:54:28" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\SplashScreenImage.screen-720p.jpg" archivePath="SplashScreenImage.screen-720p.jpg" lastWriteTime="2013-01-25 14:27:14" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\SplashScreenImage.screen-WVGA.jpg" archivePath="SplashScreenImage.screen-WVGA.jpg" lastWriteTime="2013-01-25 14:27:14" />
+  <file source="F:\Downloads\WindowsPhone\WindowsPhone\ARSampleApp\Bin\Release\SplashScreenImage.screen-WXGA.jpg" archivePath="SplashScreenImage.screen-WXGA.jpg" lastWriteTime="2013-01-25 14:27:14" />
+</xapCache>
